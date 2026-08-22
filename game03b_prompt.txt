@@ -1,0 +1,12 @@
+Using Python, write a computer game
+1. Create window, size is 1920* 1024
+2. Create a player object-- jet plane, cartoon style
+3. Create other objects -- tiger, cat and spider, cartoon style
+4. The user can control 
+    A) player jet plane, by pressing up, down, left and right arrow 
+    B) emitted the bullet by pressing "SPACE"
+5. If bullet touch other objects, then user can get 1 score.  If jet plane touches other objects, the game is over.
+
+6. The other objects are come from any directions.
+7. If user gets 5 score, the speed of jet plane can increase 1.5 times.
+8. When score <= 2, the background is clear environment. When 2< score <= 4, the background is darker environment.  When score > 4, the background is dark environment, like outer space.
